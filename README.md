@@ -61,4 +61,4 @@
 
 ### Tips for reading articles on `Medium` or `towardsdatascience` without subscription
 
-- Clear the cookies of the website when you reach the limit of reading articles
+- Clear the cookies of your tab browser when you reach the limit of reading articles
