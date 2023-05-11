@@ -51,9 +51,9 @@
 
 ### Marine vehicles hydrodynamics and related machine learning applications
 
+- [[Book chapter] Autonomous Underwater Vehicle Dynamics](<https://www.researchgate.net/publication/290363811_Autonomous_Underwater_Vehicle_Dynamics>): Top priority
 - [[Book] HANDBOOK OF MARINE CRAFT HYDRODYNAMICS AND MOTION CONTROL](<https://onlinelibrary.wiley.com/doi/book/10.1002/9781119994138>)
 - [[Book] Modelling and Control of Dynamic Systems Using Gaussian Process Model](<https://link.springer.com/book/10.1007/978-3-319-21021-6>)
-- [[Book chapter] Autonomous Underwater Vehicle Dynamics](<https://www.researchgate.net/publication/290363811_Autonomous_Underwater_Vehicle_Dynamics>): Top priority
 - [[Journal paper] Nonparametric modeling of ship maneuvering motion based on self-designed fully connected neural network](<https://doi.org/10.1016/j.oceaneng.2022.111113>)
 - [[Journal paper] Identification and Prediction of Ship Maneuvering Motion Based on a Gaussian Process with Uncertainty Propagation](<https://doi.org/10.3390/jmse9080804>)
 - [[Journal paper] System identification of ship dynamic model based on Gaussian process regression with input noise](<https://doi.org/10.1016/j.oceaneng.2020.107862>)
